@@ -31,7 +31,7 @@
         :width="250"
         :breakpoint="600"
       >
-        <q-scroll-area style="height: calc(100% - 192px); margin-top: 192px; border-right: 1px solid #ddd">
+        <q-scroll-area style="height: calc(100% - 174px); margin-top: 174px; border-right: 1px solid #ddd">
           <q-list padding>
             <q-item 
             to="/"
@@ -61,7 +61,7 @@
           </q-list>
         </q-scroll-area>
 
-        <q-img class="absolute-top" src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg" style="height: 192px">
+        <q-img class="absolute-top" src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg" style="height: 174px">
           <div class="absolute-bottom bg-transparent">
             <q-avatar size="56px" class="q-mb-sm">
               <img src="https://en.gravatar.com/userimage/236316380/934ac9598030bc78923a180554be0ab8.png?size=200">
